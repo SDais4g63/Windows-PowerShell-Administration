@@ -58,6 +58,30 @@ The following screenshots document selected activities from my Windows PowerShel
 
 ### 5. PowerShell Administration
 ![PowerShell Administration](screenshots/05-powershell-administration.png)
+## Technical Skills Demonstrated
+
+### 1. Windows Network Troubleshooting
+Used Windows networking utilities during the academic lab to examine system network configuration and connectivity.
+
+- `ipconfig` — Displays network adapter configuration and IP addresses.
+- `ping` — Tests connectivity to another network device.
+- `netstat -r` — Displays the system's routing table.
+
+### 2. PowerShell Navigation
+Explored PowerShell commands used to navigate and inspect the Windows file system.
+
+- `dir` — Lists files and folders.
+- `Get-ChildItem` — Retrieves directory contents.
+- `Get-Alias dir` — Identifies the PowerShell command represented by the `dir` alias.
+
+### 3. Process and Connection Investigation
+Examined how Windows identifies running processes and associates them with network activity.
+
+- `netstat -abno` — Displays network connections, executable information, and process identifiers when sufficient permissions are available.
+- Windows Task Manager — Provides process information that can be correlated with PIDs.
+
+### 4. Application to IT Support
+These techniques provide a foundation for diagnosing connectivity problems, examining Windows processes, and gathering information before escalating a support ticket.
 
 ## Project Reflection
 This lab helped me become more familiar with Windows administration, PowerShell commands, process inspection, and basic network diagnostics. These skills provide a foundation for entry-level help desk, desktop support, and cybersecurity roles.
