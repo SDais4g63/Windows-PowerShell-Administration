@@ -40,3 +40,24 @@ Screenshots and selected verified command results will be added after review.
 
 ## Lab Attribution
 Based on Cisco Networking Academy Lab 3.3.11 — Using Windows PowerShell. Documentation is written as an original learning summary.
+## Lab Screenshots
+
+The following screenshots document selected activities from my Windows PowerShell administration lab.
+
+### 1. Windows Task Manager
+![Task Manager Process Details](screenshots/01-task-manager-process-details.png)
+
+### 2. PowerShell Directory Navigation
+![PowerShell Directory Listing](screenshots/02-powershell-directory-listing.png)
+
+### 3. PowerShell Command Execution
+![PowerShell Command Output](screenshots/03-powershell-command-output.png)
+
+### 4. Windows Process Inspection
+![Windows Process Properties](screenshots/04-windows-process-properties.png)
+
+### 5. PowerShell Administration
+![PowerShell Administration](screenshots/05-powershell-administration.png)
+
+## Project Reflection
+This lab helped me become more familiar with Windows administration, PowerShell commands, process inspection, and basic network diagnostics. These skills provide a foundation for entry-level help desk, desktop support, and cybersecurity roles.
