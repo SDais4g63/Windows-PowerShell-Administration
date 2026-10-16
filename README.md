@@ -83,5 +83,3 @@ Examined how Windows identifies running processes and associates them with netwo
 ### 4. Application to IT Support
 These techniques provide a foundation for diagnosing connectivity problems, examining Windows processes, and gathering information before escalating a support ticket.
 
-## Project Reflection
-This lab helped me become more familiar with Windows administration, PowerShell commands, process inspection, and basic network diagnostics. These skills provide a foundation for entry-level help desk, desktop support, and cybersecurity roles.
